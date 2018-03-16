@@ -5,8 +5,14 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        
+      <div>
+        Picture: 
+        <input />
+
+        Name: 
+        <input />
+
+        <button> Add friend</button>
         
       </div>
     );
